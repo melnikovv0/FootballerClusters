@@ -45,6 +45,5 @@ This project is a comprehensive data analysis and predictive modeling task based
 * Achieved a competitive accuracy score on the test dataset.
 
 ---
-
-### 👨‍💻 Author
-**Evgenii Melnikov** *Data Science Project*
+* ### 👨‍💻 Author
+**Evgenii Melnikov** *VŠB-TUO, FEI*
